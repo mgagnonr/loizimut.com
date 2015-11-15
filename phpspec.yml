@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Loizimut
+        psr4_prefix: Loizimut
+        src_path: app
